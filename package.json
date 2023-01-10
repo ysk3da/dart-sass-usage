@@ -1,0 +1,15 @@
+{
+  "name": "dart-sass-usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx sass src/styles:dist/css"
+  },
+  "keywords": [],
+  "author": "ysk3da",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}
